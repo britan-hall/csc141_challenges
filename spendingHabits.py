@@ -1,6 +1,7 @@
 # Britan Hall
 # Date: 9/4/2024
-# This is the second CSC 141 challenge assignment. 
+# This is the second CSC 141 challenge calulating and displaying the total
+# costs of meals during a work week
 
 PA_TAX = 0.06
 PRICE_OF_MEAL = 12.49
